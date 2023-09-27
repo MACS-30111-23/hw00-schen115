@@ -9,6 +9,7 @@ My GitHub link is [Siqi Chen GitHub](https://github.com/MACS-30111-23/hw00-schen
 
 ## Profile
 I traveled to Shenzhen, a southern city in China, this summer. The picture below is one of my favourite taken by my best friend. 
+
 ![6981695775087_ pic_hd](https://github.com/MACS-30111-23/hw00-schen115/assets/146036791/4b2c868a-3026-49de-a8d4-d7270454ad8e)
 
 
