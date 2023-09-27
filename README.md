@@ -9,7 +9,9 @@ My GitHub link is [Siqi Chen GitHub](https://github.com/MACS-30111-23/hw00-schen
 
 ## Profile
 I traveled to Shenzhen, a southern city in China, this summer. The picture below is one of my favourite taken by my best friend. 
-![Alt Profile](file:///Users/carolchen/Desktop/6981695775087_.pic_hd.jpg)
+![6981695775087_ pic_hd](https://github.com/MACS-30111-23/hw00-schen115/assets/146036791/4b2c868a-3026-49de-a8d4-d7270454ad8e)
+
+
 
 ## Fun facts about me
 * I have a sibling
@@ -17,7 +19,7 @@ I traveled to Shenzhen, a southern city in China, this summer. The picture below
 * I'm a bubble tea & hotpot lover
 
 ## Summary & Reflection 
-* This is my first time to use GitHub workflow which is a quite different from R and python programmming. I learned we use # to add header, which # means a first-level heading, ## means a second-level, and ### means a third-level. And if we want to emphasis with bold, we need to use syntax ** ** while if we want italics, we need to use * *. Moreover, if we want to add unordered lists on our README, we need to add * before each line. Meanwhile, if we want to add a link, we can created by wrapping link text in brackets [ ] while wrapping the URL link in parentheses ( ). Additionally, when we intend to embed pictures in README, we can use ![Alt text](URL link of image).
+* This is my first time to use GitHub workflow which is a quite different from R and python programmming. I learned we use # to add header, which # means a first-level heading, ## means a second-level, and ### means a third-level. And if we want to emphasis with bold, we need to use syntax ** ** while if we want italics, we need to use * *. Moreover, if we want to add unordered lists on our README, we need to add * before each line. Meanwhile, if we want to add a link, we can created by wrapping link text in brackets [ ] while wrapping the URL link in parentheses ( ). Additionally, when we intend to embed pictures in README, we can use ![Alt text](URL link of image) if you have already put the image in the repository. Otherwise, you can just drag and drop the image.
 * I think README is a good way to provide information about ourselves or projects because this markdown file is really convenient and efficient.
 
 
