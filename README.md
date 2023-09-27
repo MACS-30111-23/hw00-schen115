@@ -7,11 +7,10 @@
 Hi everyone! My name is **Siqi Chen** and I'm from **China**. I study both *economics and psychology* in my undergraduate program. In my spare time, I love to play video games, watch movies, explore cities, and cook with my roommate at home. 
 My GitHub link is [Siqi Chen GitHub](https://github.com/MACS-30111-23/hw00-schen115). 
 
-## Profile
-I traveled to Shenzhen, a southern city in China, this summer. The picture below is one of my favourite taken by my best friend. 
+## Shared Pics
+The pics below is my roommate and I eat Qiaolin Hotpot last week. We think is one of the best hotpot we eat in U.S.
 
-![6981695775087_ pic_hd](https://github.com/MACS-30111-23/hw00-schen115/assets/146036791/4b2c868a-3026-49de-a8d4-d7270454ad8e = 400*300)
-
+![6991695776671_ pic](https://github.com/MACS-30111-23/hw00-schen115/assets/146036791/d872838d-8674-4138-b589-4de29eade622)
 
 
 ## Fun facts about me
