@@ -1,13 +1,24 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
 # hw01
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+# Siqi Chen
+
+## Brief introduction about myself
+Hi everyone! My name is **Siqi Chen** and I'm from **China**. I study both *economics and psychology* in my undergraduate program. In my spare time, I love to play video games, watch movies, explore cities, and cook with my roommate at home. 
+My GitHub link is [Siqi Chen GitHub](https://github.com/MACS-30111-23/hw00-schen115). 
+
+## Profile
+I traveled to Shenzhen, a southern city in China, this summer. The picture below is one of my favourite taken by my best friend. 
+![Alt Profile](file:///Users/carolchen/Desktop/6981695775087_.pic_hd.jpg)
+
+## Fun facts about me
+* I have a sibling
+* I'm a dog person
+* I'm a bubble tea & hotpot lover
+
+## Summary & Reflection 
+* This is my first time to use GitHub workflow which is a quite different from R and python programmming. I learned we use # to add header, which # means a first-level heading, ## means a second-level, and ### means a third-level. And if we want to emphasis with bold, we need to use syntax ** ** while if we want italics, we need to use * *. Moreover, if we want to add unordered lists on our README, we need to add * before each line. Meanwhile, if we want to add a link, we can created by wrapping link text in brackets [ ] while wrapping the URL link in parentheses ( ). Additionally, when we intend to embed pictures in README, we can use ![Alt text](URL link of image).
+* I think README is a good way to provide information about ourselves or projects because this markdown file is really convenient and efficient.
 
 
 
